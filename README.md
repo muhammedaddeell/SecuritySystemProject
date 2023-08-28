@@ -18,6 +18,6 @@
 1) If the password entered is correct, LCD shows: "Password Correct!", Buzzer will rung high frequency tone, Green led turns on, both for nearly 1 sec.
 2) If the password entered is Wrong, LCD shows: "Password Wrong!" "Try Again!" for 3 tries, each try Buzzer will rung low frequency tone, Red led turns on, both for nearly 1 sec. If the password entered is Wrong in all tries, LCD shows: "Not Allowed To Enter!!" ,Buzzer will rung security police tone and the red led will blinking both for 10 Sec after that user will wait for 15 Sec for trying again the two above cases,  LCD shows: "Wait: // Seconds counted 15 to 1 //".
 
-                                                *Don't worry there are an Example Scenario Video*
+                    *Don't worry there are an Example Scenario Video*
 ⦿ PCB Part: PCB 15x14cm Designed in EagleCad software with best accuracy as much as i can.
 
